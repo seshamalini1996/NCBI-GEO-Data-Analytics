@@ -1,0 +1,89 @@
+Accession,Title,Source name,Timepoint,Vaccination status,Symptom severity,Seroconversion,Viral shedding
+GSM1513443,RNA_0hours_subjectA,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,None,Positive,Negative
+GSM1513444,RNA_12hours_subjectA,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,None,Positive,Negative
+GSM1513445,RNA_24hours_subjectA,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,None,Positive,Negative
+GSM1513446,RNA_48hours_subjectA,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,None,Positive,Negative
+GSM1513447,RNA_0hours_subjectB,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,Mild,Negative,Negative
+GSM1513448,RNA_12hours_subjectB,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,Mild,Negative,Negative
+GSM1513449,RNA_24hours_subjectB,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,Mild,Negative,Negative
+GSM1513450,RNA_48hours_subjectB,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,Mild,Negative,Negative
+GSM1513451,RNA_0hours_subjectC,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,Mild,Positive,Negative
+GSM1513452,RNA_12hours_subjectC,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,Mild,Positive,Negative
+GSM1513453,RNA_24hours_subjectC,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,Mild,Positive,Negative
+GSM1513454,RNA_48hours_subjectC,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,Mild,Positive,Negative
+GSM1513455,RNA_0hours_subjectD,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,Moderate/severe,Positive,Positive
+GSM1513456,RNA_12hours_subjectD,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,Moderate/severe,Positive,Positive
+GSM1513457,RNA_24hours_subjectD,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,Moderate/severe,Positive,Positive
+GSM1513458,RNA_48hours_subjectD,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,Moderate/severe,Positive,Positive
+GSM1513459,RNA_0hours_subjectE,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,None,Positive,Negative
+GSM1513460,RNA_12hours_subjectE,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,None,Positive,Negative
+GSM1513461,RNA_24hours_subjectE,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,None,Positive,Negative
+GSM1513462,RNA_48hours_subjectE,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,None,Positive,Negative
+GSM1513463,RNA_0hours_subjectF,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,Mild,Negative,Negative
+GSM1513464,RNA_12hours_subjectF,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,Mild,Negative,Negative
+GSM1513465,RNA_24hours_subjectF,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,Mild,Negative,Negative
+GSM1513466,RNA_48hours_subjectF,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,Mild,Negative,Negative
+GSM1513467,RNA_0hours_subjectG,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,Mild,Positive,Positive
+GSM1513468,RNA_12hours_subjectG,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,Mild,Positive,Positive
+GSM1513469,RNA_24hours_subjectG,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,Mild,Positive,Positive
+GSM1513470,RNA_48hours_subjectG,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,Mild,Positive,Positive
+GSM1513471,RNA_0hours_subjectH,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,None,Positive,Negative
+GSM1513472,RNA_12hours_subjectH,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,None,Positive,Negative
+GSM1513473,RNA_24hours_subjectH,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,None,Positive,Negative
+GSM1513474,RNA_48hours_subjectH,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,None,Positive,Negative
+GSM1513475,RNA_0hours_subjectI,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,None,Negative,Negative
+GSM1513476,RNA_12hours_subjectI,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,None,Negative,Negative
+GSM1513477,RNA_24hours_subjectI,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,None,Negative,Negative
+GSM1513478,RNA_48hours_subjectI,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,None,Negative,Negative
+GSM1513479,RNA_0hours_subjectJ,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,None,Positive,Negative
+GSM1513480,RNA_12hours_subjectJ,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,None,Positive,Negative
+GSM1513481,RNA_24hours_subjectJ,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,None,Positive,Negative
+GSM1513482,RNA_48hours_subjectJ,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,None,Positive,Negative
+GSM1513483,RNA_0hours_subjectK,"Peripheral blood RNA, pre influenza challenge",0,Vaccinee,None,Negative,Positive
+GSM1513484,RNA_12hours_subjectK,"Peripheral blood RNA, 12 hours post influenza challenge",12,Vaccinee,None,Negative,Positive
+GSM1513485,RNA_24hours_subjectK,"Peripheral blood RNA, 24 hours post influenza challenge",24,Vaccinee,None,Negative,Positive
+GSM1513486,RNA_48hours_subjectK,"Peripheral blood RNA, 48 hours post influenza challenge",48,Vaccinee,None,Negative,Positive
+GSM1513487,RNA_0hours_subjectL,"Peripheral blood RNA, pre influenza challenge",0,Control,Moderate/severe,Positive,Negative
+GSM1513488,RNA_12hours_subjectL,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Moderate/severe,Positive,Negative
+GSM1513489,RNA_24hours_subjectL,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Moderate/severe,Positive,Negative
+GSM1513490,RNA_48hours_subjectL,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Moderate/severe,Positive,Negative
+GSM1513491,RNA_0hours_subjectM,"Peripheral blood RNA, pre influenza challenge",0,Control,Mild,Negative,Positive
+GSM1513492,RNA_12hours_subjectM,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Mild,Negative,Positive
+GSM1513493,RNA_24hours_subjectM,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Mild,Negative,Positive
+GSM1513494,RNA_48hours_subjectM,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Mild,Negative,Positive
+GSM1513495,RNA_0hours_subjectN,"Peripheral blood RNA, pre influenza challenge",0,Control,Moderate/severe,Positive,Positive
+GSM1513496,RNA_12hours_subjectN,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Moderate/severe,Positive,Positive
+GSM1513497,RNA_24hours_subjectN,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Moderate/severe,Positive,Positive
+GSM1513498,RNA_48hours_subjectN,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Moderate/severe,Positive,Positive
+GSM1513499,RNA_0hours_subjectO,"Peripheral blood RNA, pre influenza challenge",0,Control,None,Positive,Negative
+GSM1513500,RNA_12hours_subjectO,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,None,Positive,Negative
+GSM1513501,RNA_24hours_subjectO,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,None,Positive,Negative
+GSM1513502,RNA_48hours_subjectO,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,None,Positive,Negative
+GSM1513503,RNA_0hours_subjectP,"Peripheral blood RNA, pre influenza challenge",0,Control,Moderate/severe,Positive,Positive
+GSM1513504,RNA_12hours_subjectP,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Moderate/severe,Positive,Positive
+GSM1513505,RNA_24hours_subjectP,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Moderate/severe,Positive,Positive
+GSM1513506,RNA_48hours_subjectP,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Moderate/severe,Positive,Positive
+GSM1513507,RNA_0hours_subjectQ,"Peripheral blood RNA, pre influenza challenge",0,Control,None,Positive,Negative
+GSM1513508,RNA_12hours_subjectQ,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,None,Positive,Negative
+GSM1513509,RNA_24hours_subjectQ,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,None,Positive,Negative
+GSM1513510,RNA_48hours_subjectQ,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,None,Positive,Negative
+GSM1513511,RNA_0hours_subjectR,"Peripheral blood RNA, pre influenza challenge",0,Control,Mild,Negative,Positive
+GSM1513512,RNA_12hours_subjectR,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Mild,Negative,Positive
+GSM1513513,RNA_24hours_subjectR,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Mild,Negative,Positive
+GSM1513514,RNA_48hours_subjectR,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Mild,Negative,Positive
+GSM1513515,RNA_0hours_subjectS,"Peripheral blood RNA, pre influenza challenge",0,Control,Mild,Negative,Negative
+GSM1513516,RNA_12hours_subjectS,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Mild,Negative,Negative
+GSM1513517,RNA_24hours_subjectS,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Mild,Negative,Negative
+GSM1513518,RNA_48hours_subjectS,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Mild,Negative,Negative
+GSM1513519,RNA_0hours_subjectT,"Peripheral blood RNA, pre influenza challenge",0,Control,Moderate/severe,Positive,Positive
+GSM1513520,RNA_12hours_subjectT,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Moderate/severe,Positive,Positive
+GSM1513521,RNA_24hours_subjectT,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Moderate/severe,Positive,Positive
+GSM1513522,RNA_48hours_subjectT,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Moderate/severe,Positive,Positive
+GSM1513523,RNA_0hours_subjectU,"Peripheral blood RNA, pre influenza challenge",0,Control,None,Negative,Negative
+GSM1513524,RNA_12hours_subjectU,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,None,Negative,Negative
+GSM1513525,RNA_24hours_subjectU,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,None,Negative,Negative
+GSM1513526,RNA_48hours_subjectU,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,None,Negative,Negative
+GSM1513527,RNA_0hours_subjectV,"Peripheral blood RNA, pre influenza challenge",0,Control,Mild,Positive,Negative
+GSM1513528,RNA_12hours_subjectV,"Peripheral blood RNA, 12 hours post influenza challenge",12,Control,Mild,Positive,Negative
+GSM1513529,RNA_24hours_subjectV,"Peripheral blood RNA, 24 hours post influenza challenge",24,Control,Mild,Positive,Negative
+GSM1513530,RNA_48hours_subjectV,"Peripheral blood RNA, 48 hours post influenza challenge",48,Control,Mild,Positive,Negative
