@@ -1,0 +1,415 @@
+Accession,Title,Sourcename,Tissue,Virus,Characteristics,timepoint
+GSM3321253,HAI15_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321254,HAI16_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321255,HAI21_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321256,HAI24_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321257,HAI27_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321258,HAI28_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321259,HAI17_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321260,HAI20_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321261,PD42_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321262,PD43_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321263,PD38_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321264,PD44_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321265,PD45_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321266,PD34_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321267,PD37_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321268,PD46_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321269,PD47_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321270,PD41_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321271,HAI6_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321272,HAI55_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321273,HAI57_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321274,HAI60_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321275,HAI64_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321276,HAI47_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321277,HAI49_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321278,HAI65_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321279,HAI45_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321280,HAI48_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321281,HAI36_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321282,HAI40_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321283,HAI4_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321284,HAI72_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321285,HAI67_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321286,HAI59_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321287,HAI44_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321288,HAI37_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321289,HAI35_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321290,HAI70_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321291,HAI69_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321292,HAI68_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321293,HAI19_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321294,HAI2_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321295,HAI26_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321296,HAI52_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321297,HAI46_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321298,HAI8_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321299,HAI31_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321300,PD48_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321301,PD39_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321302,HAI74_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321303,HAI54_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321304,HAI43_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321305,HAI58_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321306,HAI73_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321307,HAI56_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321308,PD40_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321309,HAI12_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321310,HAI29_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321311,HAI30_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321312,HAI32_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321313,HAI71_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321314,HAI18_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321315,HAI14_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321316,HAI34_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321317,HAI33_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321318,HAI23_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321319,HAI22_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321320,HAI63_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321321,HAI61_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321322,HAI53_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321323,HAI7_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321324,HAI5_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321325,HAI3_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321326,HAI1_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321327,HAI62_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321328,HAI50_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321329,HAI51_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321330,HAI42_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321331,HAI41_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321332,HAI39_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321333,HAI9_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321334,HAI11_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321335,HAI10_Day 0,Pre-exposure,Blood,Pre-exposure,time p.i.: Day 0,0
+GSM3321336,HAI20_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321337,HAI21_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321338,HAI15_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321339,HAI16_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321340,HAI28_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321341,HAI24_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321342,HAI27_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321343,HAI17_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321344,PD41_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321345,PD42_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321346,PD43_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321347,PD44_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321348,PD45_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321349,PD34_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321350,PD37_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321351,PD38_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321352,PD46_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321353,PD47_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321354,HAI6_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321355,HAI55_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321356,HAI57_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321357,HAI65_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321358,HAI60_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321359,HAI64_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321360,HAI47_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321361,HAI49_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321362,HAI45_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321363,HAI48_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321364,HAI36_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321365,HAI46_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321366,HAI4_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321367,HAI74_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321368,HAI72_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321369,HAI67_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321370,HAI59_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321371,HAI37_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321372,HAI35_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321373,HAI70_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321374,HAI69_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321375,HAI68_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321376,HAI19_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321377,HAI2_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321378,HAI26_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321379,HAI52_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321380,HAI31_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321381,PD48_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321382,PD39_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321383,HAI44_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321384,HAI54_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321385,HAI43_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321386,HAI73_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321387,HAI58_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321388,HAI43_Day 1 [2],Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321389,HAI12_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321390,HAI8_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321391,HAI73_Day 1 [2],Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321392,HAI56_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321393,PD40_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321394,HAI29_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321395,HAI30_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321396,HAI32_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321397,HAI71_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321398,HAI10_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321399,HAI18_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321400,HAI62_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321401,HAI14_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321402,HAI34_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321403,HAI33_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321404,HAI23_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321405,HAI22_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321406,HAI63_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321407,HAI61_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321408,HAI53_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321409,HAI7_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321410,HAI5_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321411,HAI3_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321412,HAI1_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321413,HAI50_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321414,HAI51_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321415,HAI42_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321416,HAI41_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321417,HAI39_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321418,HAI11_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321419,HAI9_Day 1,Influenza infection Day 1,Blood,Influenza virus infection,time p.i.: Day 1,24
+GSM3321436,HAI20_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321437,HAI21_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321438,HAI15_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321439,HAI16_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321440,HAI28_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321441,HAI24_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321442,HAI27_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321443,HAI17_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321444,PD41_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321445,PD42_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321446,PD43_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321447,PD38_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321448,PD44_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321449,PD45_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321450,PD34_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321451,PD37_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321452,PD38_Day 2 [2],Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321453,PD46_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321454,PD47_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321455,HAI6_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321456,HAI55_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321457,HAI57_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321458,HAI65_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321459,HAI60_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321460,HAI64_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321461,HAI47_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321462,HAI49_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321463,HAI45_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321464,HAI48_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321465,HAI36_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321466,HAI40_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321467,HAI4_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321468,HAI74_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321469,HAI59_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321470,HAI44_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321471,HAI37_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321472,HAI35_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321473,HAI30_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321474,HAI70_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321475,HAI69_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321476,HAI68_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321477,HAI67_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321478,HAI2_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321479,HAI26_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321480,HAI19_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321481,HAI52_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321482,HAI46_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321483,PD48_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321484,PD39_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321485,HAI59_Day 2 [2],Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321486,HAI43_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321487,HAI29_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321488,HAI31_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321489,HAI12_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321490,HAI8_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321491,HAI58_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321492,HAI73_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321493,HAI56_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321494,HAI54_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321495,PD40_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321496,HAI72_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321497,HAI32_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321498,HAI71_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321499,HAI9_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321500,HAI18_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321501,HAI62_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321502,HAI14_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321503,HAI33_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321504,HAI23_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321505,HAI63_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321506,HAI61_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321507,HAI53_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321508,HAI5_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321509,HAI3_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321510,HAI1_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321511,HAI50_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321512,HAI51_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321513,HAI42_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321514,HAI41_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321515,HAI39_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321516,HAI34_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321517,HAI11_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321518,HAI7_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321519,HAI10_Day 2,Influenza infection Day 2,Blood,Influenza virus infection,time p.i.: Day 2,48
+GSM3321536,HAI20_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321537,HAI21_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321538,HAI15_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321539,HAI16_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321540,HAI28_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321541,HAI24_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321542,HAI27_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321543,HAI17_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321544,PD42_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321545,PD43_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321546,PD44_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321547,PD45_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321548,PD34_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321549,PD37_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321550,PD38_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321551,PD46_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321552,PD47_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321553,PD41_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321554,HAI55_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321555,HAI57_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321556,HAI65_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321557,HAI64_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321558,HAI47_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321559,HAI49_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321560,HAI6_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321561,HAI48_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321562,HAI45_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321563,HAI36_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321564,HAI40_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321565,HAI4_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321566,HAI74_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321567,HAI59_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321568,HAI44_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321569,HAI37_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321570,HAI35_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321571,HAI30_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321572,HAI70_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321573,HAI69_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321574,HAI68_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321575,HAI67_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321576,HAI2_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321577,HAI26_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321578,HAI19_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321579,HAI52_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321580,HAI46_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321581,HAI73_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321582,HAI54_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321583,PD39_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321584,HAI59_Day 4 [2],Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321585,HAI72_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321586,HAI43_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321587,HAI29_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321588,HAI31_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321589,HAI43_Day 4 [2],Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321590,HAI58_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321591,HAI56_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321592,PD40_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321593,PD48_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321594,HAI32_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321595,HAI71_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321596,HAI7_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321597,HAI18_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321598,HAI62_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321599,HAI33_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321600,HAI23_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321601,HAI22_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321602,HAI63_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321603,HAI61_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321604,HAI53_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321605,HAI5_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321606,HAI3_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321607,HAI1_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321608,HAI50_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321609,HAI51_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321610,HAI42_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321611,HAI41_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321612,HAI39_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321613,HAI34_Day 4,Influenza infection Day 4,Blood,Influenza virus infection,time p.i.: Day 4,96
+GSM3321614,HAI16_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321615,HAI15_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321616,HAI21_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321617,HAI28_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321618,HAI24_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321619,HAI27_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321620,HAI17_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321621,HAI20_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321622,PD42_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321623,PD43_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321624,PD44_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321625,PD45_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321626,PD34_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321627,PD37_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321628,PD38_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321629,PD46_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321630,PD47_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321631,PD41_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321632,HAI40_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321633,HAI6_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321634,HAI55_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321635,HAI60_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321636,HAI64_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321637,HAI47_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321638,HAI49_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321639,HAI57_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321640,HAI45_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321641,HAI48_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321642,HAI65_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321643,HAI36_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321644,HAI44_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321645,HAI44_Day 6 [2],Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321646,HAI72_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321647,HAI70_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321648,HAI74_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321649,HAI59_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321650,HAI37_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321651,HAI30_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321652,HAI69_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321653,HAI68_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321654,HAI67_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321655,HAI2_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321656,HAI19_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321657,HAI46_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321658,HAI4_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321659,PD39_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321660,HAI35_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321661,HAI52_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321662,HAI31_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321663,HAI29_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321664,HAI31_Day 6 [2],Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321665,HAI43_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321666,HAI12_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321667,HAI8_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321668,HAI58_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321669,HAI73_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321670,HAI56_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321671,HAI54_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321672,PD40_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321673,PD48_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321674,HAI26_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321675,HAI34_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321676,HAI32_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321677,HAI71_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321678,HAI10_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321679,HAI9_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321680,HAI7_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321681,HAI18_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321682,HAI62_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321683,HAI14_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321684,HAI11_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321685,HAI33_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321686,HAI23_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321687,HAI22_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321688,HAI63_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321689,HAI61_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321690,HAI53_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321691,HAI42_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321692,HAI5_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321693,HAI3_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321694,HAI1_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321695,HAI50_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321696,HAI51_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321697,HAI41_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
+GSM3321698,HAI39_Day 6,Influenza infection Day 6,Blood,Influenza virus infection,time p.i.: Day 6,144
